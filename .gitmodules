@@ -2,3 +2,8 @@
 	path = ingadhoc/odoo-argentina
 	url = git@github.com:ingadhoc/odoo-argentina.git
 	branch = 11.0
+
+[submodule "trixo/odoo-argentina"]
+	path = trixo/odoo-argentina
+	url = git@github.com:ingadhoc/odoo-argentina.git
+	branch = 11.0
