@@ -12,3 +12,8 @@
 	path = odoo-argentina/l10n_ar_account
 	url = git@github.com:ingadhoc/odoo-argentina.git
 	branch = 11.0
+
+[submodule "odoo-argentina/l10n_ar_afipws"]
+	path = odoo-argentina/l10n_ar_afipws
+	url = git@github.com:ingadhoc/odoo-argentina.git
+	branch = 11.0
