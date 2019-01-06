@@ -17,3 +17,8 @@
 	path = odoo-argentina/l10n_ar_afipws
 	url = git@github.com:ingadhoc/odoo-argentina.git
 	branch = 11.0
+
+[submodule "trixocom2"]
+	path = trixocom2
+	url = git@github.com:ingadhoc/odoo-argentina.git
+	branch = 11.0
